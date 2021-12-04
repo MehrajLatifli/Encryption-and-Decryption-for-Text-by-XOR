@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Encryption_and_Decryption_for_Text_by_XOR</RootNamespace>
+  </PropertyGroup>
+
+</Project>
